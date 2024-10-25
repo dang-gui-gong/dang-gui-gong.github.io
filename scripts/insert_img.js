@@ -33,7 +33,7 @@ function insertImages(containerId, imageList) {
 
     // Create a filename element
     const filename = document.createElement('p');
-    filename.textContent = image; // Show the image file name
+    filename.textContent = image.split('/')[1].split('.')[0]; // Show the image file name
     filename.style.fontSize = "12px"; // Set the font size for the filename
     filename.style.color = "#666"; // Optional: Set a grey color for the filename
 
