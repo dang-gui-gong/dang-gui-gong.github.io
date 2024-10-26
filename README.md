@@ -1,6 +1,6 @@
 # 京东杨笠事件
-> ### 仅就公开信息进行整合。  
-### 提交PR请附带相应截图/视频/链接进行佐证。  
+> ### 仅就公开信息进行整合。
+> ### 提交PR请附带相应截图/视频/链接进行佐证。  
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./img/slogan/slogan1.png" style="width: 46%;" />
@@ -66,6 +66,95 @@
 > 下述情况具体发生时间查证困难，时间线非常混乱。基本上是所有情况一起发生。
 
 #### 1. 京东疑似临时取消客服差评考核，开始出现大量京东客服辱骂用户事件。
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/nmsl.png" target="_blank">
+      <img src="img/客服辱骂用户/nmsl.png" width="300">
+    </a>
+    <figcaption>nmsl</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/咒用户死.png" target="_blank">
+      <img src="img/客服辱骂用户/咒用户死.png" width="300">
+    </a>
+    <figcaption>咒用户死</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/客服辱骂用户由来已久.png" target="_blank">
+      <img src="img/客服辱骂用户/客服辱骂用户由来已久.png" width="300">
+    </a>
+    <figcaption>客服辱骂用户由来已久</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/要杀人.png" target="_blank">
+      <img src="img/客服辱骂用户/要杀人.png" width="300">
+    </a>
+    <figcaption>要杀人</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/说用户作.png" target="_blank">
+      <img src="img/客服辱骂用户/说用户作.png" width="300">
+    </a>
+    <figcaption>说用户作</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/阴阳-1.png" target="_blank">
+      <img src="img/客服辱骂用户/阴阳-1.png" width="300">
+    </a>
+    <figcaption>阴阳-1</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/阴阳-2.png" target="_blank">
+      <img src="img/客服辱骂用户/阴阳-2.png" width="300">
+    </a>
+    <figcaption>阴阳-2</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/阴阳-3.png" target="_blank">
+      <img src="img/客服辱骂用户/阴阳-3.png" width="300">
+    </a>
+    <figcaption>阴阳-3</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/阴阳-4.png" target="_blank">
+      <img src="img/客服辱骂用户/阴阳-4.png" width="300">
+    </a>
+    <figcaption>阴阳-4</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/骂不是人.png" target="_blank">
+      <img src="img/客服辱骂用户/骂不是人.png" width="300">
+    </a>
+    <figcaption>骂不是人</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/骂小学生.png" target="_blank">
+      <img src="img/客服辱骂用户/骂小学生.png" width="300">
+    </a>
+    <figcaption>骂小学生</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/骂有病.png" target="_blank">
+      <img src="img/客服辱骂用户/骂有病.png" width="300">
+    </a>
+    <figcaption>骂有病</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/骂用户畜生-1.png" target="_blank">
+      <img src="img/客服辱骂用户/骂用户畜生-1.png" width="300">
+    </a>
+    <figcaption>骂用户畜生-1</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <a href="img/客服辱骂用户/骂用户畜生-2.png" target="_blank">
+      <img src="img/客服辱骂用户/骂用户畜生-2.png" width="300">
+    </a>
+    <figcaption>骂用户畜生-2</figcaption>
+  </figure>
+</div>
+
+
 
 <div id="image-container-1" 
 style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; margin-top: 20px;"
@@ -165,17 +254,3 @@ data-image-list='[
 1. 胖猫事件
 2. 追风小叶
 3. ...（更多-待添加）
-
-
-
-
-
-
-
-
-<script src="scripts/insert_img.js"></script>
-<style>
-  body {
-    background-color: #f0f0f0;
-  }
-</style>
