@@ -2,10 +2,10 @@
 > ### 仅就公开信息进行整合。
 > ### 提交PR请附带相应截图/视频/链接进行佐证。  
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="./img/slogan/slogan1.png" style="width: 46%;" />
-  <img src="./img/slogan/slogan2.JPG" style="width: 54%;" />
-</div>
+<p align="center">
+  <img src="./img/slogan/slogan1.png" alt="slogan 1" style="width: 46%;">
+  <img src="./img/slogan/slogan2.JPG" alt="slogan 2" style="width: 52%;">
+</p>
 
 
 ## 一. 背景知识
