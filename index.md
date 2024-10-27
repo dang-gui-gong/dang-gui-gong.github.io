@@ -65,11 +65,11 @@
 ### 2024-10-19 至 2024-10-22：混乱阶段
 > 下述情况具体发生时间查证困难，时间线非常混乱。基本上是所有情况一起发生。
 
-#### 1. 京东疑似临时取消客服差评考核，开始出现大量京东客服辱骂用户事件。
+#### 1. 京东疑似临时取消客服差评考核，开始出现大量京东客服<span style="color:red; font-size:20px">辱骂用户</span>事件。
 
-<div id="image-container-1" 
-style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; margin-top: 20px;"
-data-element-id="image-container-1" 
+<div id="image-container" 
+style="display: grid; grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); gap: 15px; margin-top: 20px;"
+data-element-id="image-container" 
 data-image-list='[
 "客服辱骂用户/nmsl.png", 
 "客服辱骂用户/咒用户死.png", 
