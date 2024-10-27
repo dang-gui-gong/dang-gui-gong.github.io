@@ -17,14 +17,15 @@
 **“男人还有底线呢？”**  
 等等，被大量女性视作“女权领袖”。[【链接】](https://zh.wikipedia.org/zh-cn/%E6%9D%A8%E7%AC%A0?oldformat=true#%E4%BA%89%E8%AE%AE)
 
-<div style="display: flex; justify-content: space-between; gap: 3px; margin-bottom: 3px;">
+<p align="center">
   <img src="./img/杨笠/说男人垃圾.png" style="width: 63%;" />
-  <img src="./img/杨笠/说男人没有底线.png" style="width: 37%;" />
-</div>
-<div style="display: flex; justify-content: space-between; gap: 3px;">
+  <img src="./img/杨笠/说男人没有底线.png" style="width: 35%;" />
+</p>
+<p align="center">
   <img src="./img/杨笠/接广告.jpg" style="width: 55%;" />
-  <img src="./img/杨笠/普通自信.jpeg" style="width: 45%;" />
-</div>
+  <img src="./img/杨笠/普通自信.jpeg" style="width: 43%;" />
+</p>
+
 
 ### 颜怡颜悦是谁
 脱口秀组合，双胞胎姐妹。2019年参加《脱口秀大会第二季》，前期内容正常。后期，在杨笠爆火之后，内容开始逐渐转向“女权主义”，开始逐渐包含更多侮辱男性群体的内容。
