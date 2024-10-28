@@ -247,6 +247,20 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td style="width: 70%; text-align: center;">
+      <div align="center">
+        <a href="img/开屏广告/4.png" target="_blank">
+          <img src="img/开屏广告/4.png" style="width: 100%; max-width: 100%; height: auto;" alt="开屏广告 4">
+        </a>
+      </div>
+    </td>
+    <td style="width: 30%; vertical-align: middle;">
+      <ul>
+        <li>被质疑为“面向用户打拳”</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 #### 3. 京东金融用户发现，提款时打款方出现其他银行。
@@ -282,6 +296,13 @@
   - [【知乎问题】](./img/京东金融/阻止注销-1.png)
   - [【银行到账截图】](./img/京东金融/阻止注销-2.png)
   - [【京东金融app截图】](./img/京东金融/阻止注销-3.png) 
+1. 网上开始流出京东“撤稿函”，但由于函件格式不规范，行文水平低，以及最后结尾有两个句号，被怀疑并非出自京东官方。
+ - [【撤稿函】](./img/京东/撤稿函.JPG)
+
+### 2024-10-27：B站Up主“HT大神”讲述“撤稿函”来源。
+- B站Up主“HT大神”发视频，说明该“撤稿函”来源为他的视频被下架时的B站附件。 [【HT大神视频】](https://www.bilibili.com/video/BV1nK1hYgEuJ)
+- B站Up主“HT大神”与Up主“唯一讲述者”直播连麦，现场展示“撤稿函”来源。[【HT大神连麦唯一讲述者直播录屏】](https://www.bilibili.com/video/BV16T1YYjEsR)
+- “撤稿函”在直播中被认证极大概率就是来自京东官方。
 
 ## 三. 过去曾与杨笠合作的其他品牌
 1. 小鹏汽车
